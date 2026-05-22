@@ -2,7 +2,7 @@
  * Pizzería Campus Express - Gestión de pedidos con Queue y Stack
  * Compatible con SharpDevelop 4.4 / .NET Framework 2.0+
  */
-
+// nombre: Daniel Mujica Informatica 2B.
 using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
